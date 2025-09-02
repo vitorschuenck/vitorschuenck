@@ -5,8 +5,8 @@ E este é meu perfil do Github, nele você vai encontrar alguns de meus projetos
 
 ## 📖 Sobre mim
 
-- 🎓 Atualmente estou estudando **Analise e Desenvolvimento de Sistemas**
-- 🔊 Habilidades Linguisticas:
+- 🎓 Atualmente estou estudando **Análise e Desenvolvimento de Sistemas**
+- 🔊 Habilidades Linguísticas:
   - <img src="https://cdn-icons-png.flaticon.com/256/3909/3909370.png" width="15"/>**Português** (Nativo)
   - <img src="https://cdn-icons-png.flaticon.com/512/323/323310.png" width="15"/> **Inglês** (Intermediário)
   - <img src="https://flagdownload.com/wp-content/uploads/Flag_of_Spain_Flat_Round-1024x1024.png" width="15"/> **Espanhol** (Conhecimentos básicos)
