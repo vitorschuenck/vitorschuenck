@@ -12,6 +12,5 @@ E este é meu perfil do Github, nele você vai encontrar alguns de meus projetos
   - <img src="https://flagdownload.com/wp-content/uploads/Flag_of_Spain_Flat_Round-1024x1024.png" width="15"/> **Espanhol** (Conhecimentos básicos)
 
 
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vitor.schuenck@gmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorschuenckads/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitorschuenck?igsh=cTcwODU4ZW9vZGlz&utm_source=qr)
