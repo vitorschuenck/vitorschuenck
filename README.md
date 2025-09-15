@@ -5,7 +5,7 @@ E este é meu perfil do Github, nele você vai encontrar alguns de meus projetos
 
 ## 📖 Sobre mim / About me
 
-- 🎓 Atualmente estou estudando **Análise e Desenvolvimento de Sistemas**
+- 🎓 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** pela PUC Minas
 - 🔊 Habilidades Linguísticas:
   - <img src="https://cdn-icons-png.flaticon.com/256/3909/3909370.png" width="15"/> **Português** (Nativo)
   - <img src="https://cdn-icons-png.flaticon.com/512/323/323310.png" width="15"/> **Inglês** Intermediário (Leitura e Escrita) e Básico (Fala e conversação)
